@@ -1,0 +1,6 @@
+model.keras
+model_weights/vgg19_model_01.keras
+model_weights/vgg19_model_02.keras
+model_weights/vgg_unfrozen.keras
+chest_xray
+.ipynb_checkpoints
